@@ -9,6 +9,7 @@
  ## I'm a Full Stack .NET Developer 
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedIbrahimP&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed Ibrahim" /> </p>
 
  **🚀 About Me**
 
